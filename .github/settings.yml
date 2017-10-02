@@ -3,3 +3,5 @@ labels:
     color: CC0000
   - name: feature
     color: 336699
+  - name: artem
+    color: 332211
